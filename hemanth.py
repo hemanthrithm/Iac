@@ -1,1 +1,1 @@
-db_password = hemanth
+secrets = hemanth
